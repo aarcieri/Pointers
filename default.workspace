@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="puntatori/puntatori.cbp" />
+		<Project filename="Puntatori_vettori/Puntatori_vettori.cbp" />
+		<Project filename="Vettori_dinamici/Vettori_dinamici.cbp" />
+		<Project filename="Lista_semplice/Lista_semplice.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

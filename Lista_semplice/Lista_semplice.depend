@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1584898356 source:/home/antonio/Scrivania/Scuola/Scuola_2019-2020/CoronaVirus/Puntatori/Lista_semplice/list.c
+	"List.h"
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1584898070 /home/antonio/Scrivania/Scuola/Scuola_2019-2020/CoronaVirus/Puntatori/Lista_semplice/List.h
+	<stdbool.h>
+
+1584898188 source:/home/antonio/Scrivania/Scuola/Scuola_2019-2020/CoronaVirus/Puntatori/Lista_semplice/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"List.h"
+
