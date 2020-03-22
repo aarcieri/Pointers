@@ -8,8 +8,8 @@ Lezioni sui puntatori in linguaggio C
 
 	2. puntatori ed allocazione dinamica
 
-	4. puntatori ed array (vettore)
+	3. puntatori ed array (vettore)
 
-	5. allocazione dinamica di vettori
+	4. allocazione dinamica di vettori
 
-	6. puntatori e struct (strutture dati dinamiche)
+	5. puntatori e struct (strutture dati dinamiche)
