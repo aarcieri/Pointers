@@ -2,7 +2,7 @@
 Lezioni sui puntatori in linguaggio C
 
     Indice
-		------
+    ------
 
 	1. Variabili nella RAM
 
